@@ -1,7 +1,7 @@
 # API Research & Project
 
 - What is an API?
-- Different types of API's
+- Different types of API's.
 - API Use Cases.
 - Further API research.
 
