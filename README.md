@@ -11,12 +11,12 @@
 - API's assists with development workload and facilitate application access between different types of devices. 
 
 ### Different Types of API's
-- SOAP (Outdated) - shares information in clear text XML.
-- RESTful
-- GraphQL
+- **SOAP:** (Outdated) - shares information in clear text XML.
+- **RESTful:**
+- **GraphQL:**
 
 
-### API Use Cases
+### API Use Case
 
 
 
