@@ -12,7 +12,7 @@
 - They return back-end data (from db) or back-end functionality/logic to the front-end.
 
 ### Different Types of API's
-- **SOAP:** (Outdated) - shares information in clear text XML.
+- **SOAP:** Stands for **Simple Object Access Protocol** - shares information in clear text XML.
 - **RESTful:**
 	- example: ```/employee/1/```
 - **GraphQL:**
